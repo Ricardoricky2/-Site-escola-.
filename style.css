@@ -26,3 +26,20 @@
     margin: 0;
     padding: 0;
     }
+    .escola-imagem{
+        width:25%;
+        }
+        body{
+            font-family:Poppins,sans-serif;
+            }
+            .estudante-imagem{
+                width: 120px;
+                }
+.escola-conteudo{
+    width: 35%;
+    }
+  justify-content  center
+  align-items center
+.escola-titulo {
+    padding: 24px 0;
+    }
